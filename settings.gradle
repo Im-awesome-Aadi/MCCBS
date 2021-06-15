@@ -1,0 +1,2 @@
+rootProject.name = "MCCBS"
+include ':app'
